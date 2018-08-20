@@ -1,6 +1,7 @@
 <?php
 /*
 * Plugin Name: Chalk NFL Teams
+* Plugin URI: https://github.com/RyanNeilson/chalk-nfl-plugin
 * Description: Displays NFL teams sorted by conference and division
 * Version: 1.0.0
 * Author: Ryan Neilson
