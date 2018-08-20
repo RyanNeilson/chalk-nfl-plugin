@@ -1,0 +1,17 @@
+{
+    "name": "ryanneilson/chalk-nfl-teams",
+    "description": "Display NFL teams by conference and division",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ryan Neilson",
+            "email": "ryan@neilsonwebdesign.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}

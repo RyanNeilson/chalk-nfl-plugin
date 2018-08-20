@@ -1,0 +1,63 @@
+.chalk-nfl {
+    font-family: 'Merriweather', serif;
+    color: black;
+    box-shadow: 0px 0px 2px #b7b7b7;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.chalk-nfl,
+.chalk-nfl th,
+.chalk-nfl td {
+    border: none;
+    text-align: center;
+}
+
+.chalk-nfl table {
+    border: 1px solid #b7b7b7;
+    
+}
+
+.chalk-nfc-row,
+.chalk-afc-row{
+    color: white;
+    font-size: 24px;
+}
+
+.chalk-nfc-row {
+    background-color: #003b66;
+}
+
+.chalk-afc-row {
+    background-color: #ce1126;
+}
+
+.chalk-division {
+    background-color: #b7b7b7;
+    font-size: 18px;
+}
+
+.chalk-nfl td {
+    font-size: 14px;
+    font-family: 'Didact Gothic', Helvetica, sans-serif;
+}
+
+.chalk-nfc,
+.chalk-afc {
+    max-width: 45%;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    .chalk-nfc,
+    .chalk-afc {
+        min-width: 100%;
+        display: block;
+    }
+}
+
+
+
